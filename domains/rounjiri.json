@@ -4,6 +4,7 @@
     "email": "jirkaroun12@gmail.com"
   },
   "records": {
-    "CNAME": "webpage-2035d9.gitlab.io"
+    "CNAME": "webpage-2035d9.gitlab.io",
+    "TXT": ["gitlab-pages-verification-code=86967b583d83189899f8424959792118"]
   }
 }
